@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="299980a2-f990-4ea8-b9cd-24a0670b7699" name="Default" comment="" />
+    <list default="true" id="299980a2-f990-4ea8-b9cd-24a0670b7699" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/concert/Audience.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concert/Audience.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/concert/Pianist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concert/Pianist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/concert/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concert/MyTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,32 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SoundSystemTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/soundsystem/test/SoundSystemTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="64" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Performance.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/concert/Performance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Audience.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/concert/Audience.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="350">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#232#233#0" expanded="true" />
@@ -51,28 +35,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pianist.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/concert/Pianist.java">
+      <file leaf-file-name="Performance.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/concert/Performance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="20" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="20" />
+            <state relative-caret-position="50">
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/concert/MyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="23" />
               <folding>
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#141#142#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/concert/Test.java">
+      <file leaf-file-name="ConcertMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/concert/ConcertMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="21" />
+            <state relative-caret-position="275">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KnightMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springinaction/knights/test/KnightMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pianist.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/concert/Pianist.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
-                <element signature="e#485#486#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,42 +92,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
               <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="compactDisc.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/compactDisc.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="knights.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/knights.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpEL.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/soundsystem/SpEL.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="placeholder.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/placeholder.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" selection-start-column="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -171,12 +144,15 @@
         <option value="$PROJECT_DIR$/src/main/resources/placeholder.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/compactDisc.xml" />
         <option value="$PROJECT_DIR$/src/main/java/soundsystem/SpEL.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concert/Performance.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concert/Audience.java" />
         <option value="$PROJECT_DIR$/src/main/java/soundsystem/test/SoundSystemTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/concert/Musician.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concert/Test.java" />
         <option value="$PROJECT_DIR$/src/main/resources/concert.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/concert/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/concert/Pianist.java" />
+        <option value="$PROJECT_DIR$/src/main/java/concert/Performance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/concert/Audience.java" />
+        <option value="$PROJECT_DIR$/src/main/java/concert/MyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/concert/ConcertMain.java" />
       </list>
     </option>
   </component>
@@ -190,8 +166,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="60" />
-    <option name="y" value="106" />
+    <option name="x" value="441" />
+    <option name="y" value="444" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -203,7 +179,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -235,6 +211,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="knights" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SiA4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SiA4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="knights" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SiA4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SiA4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="concert" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -254,7 +247,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -287,14 +280,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Test.begin">
-    <configuration name="SoundSystemTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="soundsystem.test.SoundSystemTest" />
+  <component name="RunManager" selected="Application.ConcertMain">
+    <configuration name="ConcertMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concert.ConcertMain" />
       <module name="SiA4" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="soundsystem.*" />
+          <option name="PATTERN" value="concert.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,18 +295,18 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="BraveKnightTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SiA4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.springinaction.knights.test.*" />
+          <option name="PATTERN" value="concert.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.springinaction.knights.test" />
-      <option name="MAIN_CLASS_NAME" value="com.springinaction.knights.test.BraveKnightTest" />
+      <option name="PACKAGE_NAME" value="concert" />
+      <option name="MAIN_CLASS_NAME" value="concert.MyTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -325,43 +318,43 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="SoundSystemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyTest.begin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SiA4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="soundsystem.test.*" />
+          <option name="PATTERN" value="concert.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="soundsystem.test" />
-      <option name="MAIN_CLASS_NAME" value="soundsystem.test.SoundSystemTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="SoundSystemTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SiA4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="soundsystem.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="soundsystem.test" />
-      <option name="MAIN_CLASS_NAME" value="soundsystem.test.SoundSystemTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="concert" />
+      <option name="MAIN_CLASS_NAME" value="concert.MyTest" />
+      <option name="METHOD_NAME" value="begin" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SiA4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="concert" />
+      <option name="MAIN_CLASS_NAME" value="concert.Test" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -433,19 +426,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.SoundSystemTest" />
-      <item itemvalue="JUnit.BraveKnightTest" />
-      <item itemvalue="JUnit.SoundSystemTest.test" />
-      <item itemvalue="JUnit.SoundSystemTest" />
       <item itemvalue="JUnit.Test.begin" />
+      <item itemvalue="JUnit.Test" />
+      <item itemvalue="JUnit.MyTest.begin" />
+      <item itemvalue="JUnit.MyTest" />
+      <item itemvalue="Application.ConcertMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConcertMain" />
+        <item itemvalue="JUnit.MyTest.begin" />
+        <item itemvalue="JUnit.MyTest" />
         <item itemvalue="JUnit.Test.begin" />
-        <item itemvalue="JUnit.SoundSystemTest.test" />
-        <item itemvalue="JUnit.SoundSystemTest" />
-        <item itemvalue="Application.SoundSystemTest" />
-        <item itemvalue="JUnit.BraveKnightTest" />
+        <item itemvalue="JUnit.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -471,44 +464,46 @@
       <workItem from="1524750317995" duration="6641000" />
       <workItem from="1524785695468" duration="5088000" />
       <workItem from="1524834888790" duration="3489000" />
-      <workItem from="1525392556594" duration="2728000" />
+      <workItem from="1525392556594" duration="2922000" />
+      <workItem from="1525607592401" duration="4755000" />
+      <workItem from="1525653202007" duration="1468000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SoundSystemTest_test - 2018.04.26 at 23h 23m 05s.xml">
-      <configuration name="SoundSystemTest.test" configurationId="JUnit" />
+    <history-entry file="MyTest_begin - 2018.05.06 at 23h 19m 56s.xml">
+      <configuration name="MyTest.begin" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SoundSystemTest_test - 2018.04.27 at 08h 46m 20s.xml">
-      <configuration name="SoundSystemTest.test" configurationId="JUnit" />
+    <history-entry file="MyTest - 2018.05.06 at 23h 22m 00s.xml">
+      <configuration name="MyTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SoundSystemTest_test - 2018.04.27 at 08h 48m 45s.xml">
-      <configuration name="SoundSystemTest.test" configurationId="JUnit" />
+    <history-entry file="MyTest_begin - 2018.05.06 at 23h 22m 20s.xml">
+      <configuration name="MyTest.begin" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SoundSystemTest_test - 2018.04.27 at 08h 59m 00s.xml">
-      <configuration name="SoundSystemTest.test" configurationId="JUnit" />
+    <history-entry file="MyTest_begin - 2018.05.06 at 23h 23m 32s.xml">
+      <configuration name="MyTest.begin" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SoundSystemTest_test - 2018.04.27 at 09h 00m 37s.xml">
-      <configuration name="SoundSystemTest.test" configurationId="JUnit" />
+    <history-entry file="MyTest_begin - 2018.05.06 at 23h 23m 53s.xml">
+      <configuration name="MyTest.begin" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SoundSystemTest_test - 2018.04.27 at 09h 00m 51s.xml">
-      <configuration name="SoundSystemTest.test" configurationId="JUnit" />
+    <history-entry file="MyTest - 2018.05.06 at 23h 34m 15s.xml">
+      <configuration name="MyTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SoundSystemTest_test - 2018.04.27 at 09h 01m 39s.xml">
-      <configuration name="SoundSystemTest.test" configurationId="JUnit" />
+    <history-entry file="MyTest_begin - 2018.05.06 at 23h 35m 15s.xml">
+      <configuration name="MyTest.begin" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SoundSystemTest_test - 2018.04.27 at 21h 38m 06s.xml">
-      <configuration name="SoundSystemTest.test" configurationId="JUnit" />
+    <history-entry file="MyTest_begin - 2018.05.06 at 23h 36m 07s.xml">
+      <configuration name="MyTest.begin" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_begin - 2018.05.04 at 08h 54m 31s.xml">
-      <configuration name="Test.begin" configurationId="JUnit" />
+    <history-entry file="MyTest_begin - 2018.05.06 at 23h 36m 46s.xml">
+      <configuration name="MyTest.begin" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_begin - 2018.05.04 at 08h 55m 22s.xml">
-      <configuration name="Test.begin" configurationId="JUnit" />
+    <history-entry file="MyTest_begin - 2018.05.07 at 08h 38m 52s.xml">
+      <configuration name="MyTest.begin" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45857000" />
+    <option name="totallyTimeSpent" value="52274000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -548,44 +543,20 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/concert/Audience.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-expression/4.3.16.RELEASE/spring-expression-4.3.16.RELEASE.jar!/org/springframework/expression/spel/CodeFlow.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springinaction/knights/Minstrel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springinaction/knights/SlayDragonQuest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/soundsystem/BlankDisc.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/soundsystem/CDPlayer.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.16.RELEASE/spring-context-4.3.16.RELEASE.jar!/org/springframework/context/annotation/ProfileCondition.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.16.RELEASE/spring-context-4.3.16.RELEASE.jar!/org/springframework/context/annotation/Profile.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.16.RELEASE/spring-context-4.3.16.RELEASE.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
@@ -757,9 +728,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -777,6 +745,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/soundsystem/SpEL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/concert.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/soundsystem/test/SoundSystemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Test.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/knights.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -791,66 +781,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/soundsystem/SpEL.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springinaction/knights/BraveKnight.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springinaction/knights/test/BraveKnightTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springinaction/knights/test/KnightMain.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springinaction/knights/DamselRescuingKnight.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/soundsystem/test/SoundSystemTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springinaction/knights/RescueDamselQuest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.8.9/aspectjweaver-1.8.9.jar!/org/aspectj/lang/annotation/Before.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/concert/Performance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/concert/Pianist.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="20" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concert/Test.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.8.9/aspectjweaver-1.8.9.jar!/org/aspectj/lang/ProceedingJoinPoint.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="21" />
+        <state relative-caret-position="175">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springinaction/knights/test/BraveKnightTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#485#486#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -862,17 +851,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concert/Performance.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/concert/MyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="325">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springinaction/knights/test/KnightMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/concert/ConcertMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/concert/Audience.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="350">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#232#233#0" expanded="true" />

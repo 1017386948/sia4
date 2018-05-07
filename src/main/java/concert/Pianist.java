@@ -1,8 +1,8 @@
 package concert;
 
-import org.springframework.stereotype.Service;
+import org.springframework.stereotype.Component;
 
-@Service
+@Component
 public class Pianist implements Performance {
     @Override
     public void perform() {
