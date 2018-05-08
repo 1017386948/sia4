@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/concert/Audience.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concert/Audience.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/concert/Pianist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concert/Pianist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/concert/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/concert/MyTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,22 +23,15 @@
       <file leaf-file-name="Audience.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/concert/Audience.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="476">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#232#233#0" expanded="true" />
                 <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#599#600#0" expanded="true" />
+                <element signature="e#654#655#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Performance.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/concert/Performance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -47,8 +39,8 @@
       <file leaf-file-name="MyTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/concert/MyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="23" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="23" />
+            <state relative-caret-position="400">
+              <caret line="16" column="19" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,8 +51,8 @@
       <file leaf-file-name="ConcertMain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/concert/ConcertMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="125">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -74,24 +66,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pianist.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/concert/Pianist.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="e#165#166#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="concert.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/concert.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
               <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pianist.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/concert/Pianist.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -148,11 +136,11 @@
         <option value="$PROJECT_DIR$/src/main/java/concert/Musician.java" />
         <option value="$PROJECT_DIR$/src/main/resources/concert.xml" />
         <option value="$PROJECT_DIR$/src/main/java/concert/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concert/Pianist.java" />
         <option value="$PROJECT_DIR$/src/main/java/concert/Performance.java" />
-        <option value="$PROJECT_DIR$/src/main/java/concert/Audience.java" />
         <option value="$PROJECT_DIR$/src/main/java/concert/MyTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/concert/ConcertMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/concert/Pianist.java" />
+        <option value="$PROJECT_DIR$/src/main/java/concert/Audience.java" />
       </list>
     </option>
   </component>
@@ -166,8 +154,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="441" />
-    <option name="y" value="444" />
+    <option name="x" value="212" />
+    <option name="y" value="208" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -212,15 +200,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="knights" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SiA4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SiA4" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="knights" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SiA4" type="b2602c69:ProjectViewProjectNode" />
@@ -280,7 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConcertMain">
+  <component name="RunManager" selected="JUnit.MyTest.begin">
     <configuration name="ConcertMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="concert.ConcertMain" />
       <module name="SiA4" />
@@ -434,8 +413,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConcertMain" />
         <item itemvalue="JUnit.MyTest.begin" />
+        <item itemvalue="Application.ConcertMain" />
         <item itemvalue="JUnit.MyTest" />
         <item itemvalue="JUnit.Test.begin" />
         <item itemvalue="JUnit.Test" />
@@ -466,44 +445,45 @@
       <workItem from="1524834888790" duration="3489000" />
       <workItem from="1525392556594" duration="2922000" />
       <workItem from="1525607592401" duration="4755000" />
-      <workItem from="1525653202007" duration="1468000" />
+      <workItem from="1525653202007" duration="1537000" />
+      <workItem from="1525703067938" duration="2545000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyTest_begin - 2018.05.06 at 23h 19m 56s.xml">
+    <history-entry file="MyTest_begin - 2018.05.07 at 22h 57m 07s.xml">
       <configuration name="MyTest.begin" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyTest - 2018.05.06 at 23h 22m 00s.xml">
-      <configuration name="MyTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyTest_begin - 2018.05.06 at 23h 22m 20s.xml">
+    <history-entry file="MyTest_begin - 2018.05.07 at 22h 57m 19s.xml">
       <configuration name="MyTest.begin" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyTest_begin - 2018.05.06 at 23h 23m 32s.xml">
+    <history-entry file="MyTest_begin - 2018.05.07 at 22h 58m 47s.xml">
       <configuration name="MyTest.begin" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyTest_begin - 2018.05.06 at 23h 23m 53s.xml">
+    <history-entry file="MyTest_begin - 2018.05.07 at 22h 59m 15s.xml">
       <configuration name="MyTest.begin" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyTest - 2018.05.06 at 23h 34m 15s.xml">
-      <configuration name="MyTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyTest_begin - 2018.05.06 at 23h 35m 15s.xml">
+    <history-entry file="MyTest_begin - 2018.05.07 at 23h 01m 42s.xml">
       <configuration name="MyTest.begin" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyTest_begin - 2018.05.06 at 23h 36m 07s.xml">
+    <history-entry file="MyTest_begin - 2018.05.07 at 23h 01m 57s.xml">
       <configuration name="MyTest.begin" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyTest_begin - 2018.05.06 at 23h 36m 46s.xml">
+    <history-entry file="MyTest_begin - 2018.05.07 at 23h 02m 09s.xml">
       <configuration name="MyTest.begin" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyTest_begin - 2018.05.07 at 08h 38m 52s.xml">
+    <history-entry file="MyTest_begin - 2018.05.07 at 23h 02m 25s.xml">
+      <configuration name="MyTest.begin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_begin - 2018.05.07 at 23h 05m 35s.xml">
+      <configuration name="MyTest.begin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyTest_begin - 2018.05.07 at 23h 06m 56s.xml">
       <configuration name="MyTest.begin" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52274000" />
+    <option name="totallyTimeSpent" value="54888000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -517,17 +497,17 @@
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3812095" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3812095" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18020834" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18020834" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
       <window_info anchor="bottom" id="Dependency Viewer" order="11" weight="0.32901832" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -548,7 +528,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/concert/Audience.java</url>
-          <line>10</line>
+          <line>16</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -809,24 +789,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concert/Performance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concert/Pianist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.8.9/aspectjweaver-1.8.9.jar!/org/aspectj/lang/ProceedingJoinPoint.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -838,9 +800,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
           <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -851,13 +810,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/concert/MyTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/concert/Performance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="50">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -870,19 +826,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/concert/ConcertMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="125">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/concert/Pianist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/concert/MyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/concert/Audience.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="476">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#232#233#0" expanded="true" />
             <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,14 +1,33 @@
 package concert;
 
-import org.aspectj.lang.annotation.After;
-import org.aspectj.lang.annotation.Aspect;
+import org.aspectj.lang.ProceedingJoinPoint;
+import org.aspectj.lang.annotation.*;
+import org.springframework.stereotype.Component;
 
 @Aspect
+@Component
 public class Audience {
 
-    @After("execution(* concert.Performance.perform(..))")
+    @Pointcut("execution(** concert.Performance.perform(..))")
+    public void performance() {
+    }
+
+    @Before("execution(** concert.Performance.perform(..))")
     public void silenceCellphones() {
         System.out.println("Silencing cell phones");
     }
 
+    @After("performance()")
+    public void applause() {
+        System.out.println("CLAP CLAP CLAP!!!");
+    }
+
+    @Around("execution(** concert.Performance.perform(..))")
+    public void watchPerformance(ProceedingJoinPoint jp) {
+        try {
+            jp.proceed();
+        } catch (Throwable throwable) {
+            System.out.println("hehe");
+        }
+    }
 }
