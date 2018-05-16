@@ -8,11 +8,11 @@ import org.springframework.stereotype.Component;
 @Component
 public class Audience {
 
-    @Pointcut("execution(** concert.Performance.perform(..))")
+    @Pointcut("execution(* concert.Performance.perform(..))")
     public void performance() {
     }
 
-    @Before("execution(** concert.Performance.perform(..))")
+    @Before("performance()")
     public void silenceCellphones() {
         System.out.println("Silencing cell phones");
     }
@@ -22,7 +22,7 @@ public class Audience {
         System.out.println("CLAP CLAP CLAP!!!");
     }
 
-    @Around("execution(** concert.Performance.perform(..))")
+    @Around("performance()")
     public void watchPerformance(ProceedingJoinPoint jp) {
         try {
             jp.proceed();
