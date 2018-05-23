@@ -12,6 +12,8 @@ import soundsystem.CompactDisc;
 import soundsystem.SpEL;
 import soundsystem.Unique;
 
+import static org.junit.Assert.assertEquals;
+
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(locations = {"classpath:compactDisc.xml"})
 public class SoundSystemTest {
@@ -27,7 +29,7 @@ public class SoundSystemTest {
     public void test() {
         ApplicationContext context = new ClassPathXmlApplicationContext("compactDisc.xml");
         cd.play();
-        System.out.println(name);
-        System.out.println(spEL.clz);
+        cd.playTrack(1);
+        assertEquals(1, 1);
     }
 }
